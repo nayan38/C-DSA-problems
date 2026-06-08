@@ -1,3 +1,2 @@
 # first-repo
-Author -NAYAN KR.
-new programme
+C++ DSA Problem solving 
